@@ -7,6 +7,7 @@
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "braintree-web-drop-in-react": "^1.0.7",
+    "mini-css-extract-plugin": "2.4.5",
     "moment": "^2.29.1",
     "query-string": "^7.0.1",
     "react": "17.0.1",
