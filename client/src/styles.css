@@ -1,0 +1,126 @@
+
+/* Border Radius */
+
+.btn, .jumbotron, .nav :hover {
+    border-radius: 10px;
+}
+
+/* Product Image on Card */
+
+.product-img {
+    min-height: 100px;
+    /* max-height: auto; */
+}
+
+/* Single Product Page - Product Name */
+
+.name {
+    background: black;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+/* Title and description */
+
+.title-desc {
+    background-color: rgb(61, 180, 61);
+}
+
+
+/* Black Shade Form 10 - 1 */
+
+
+.black-10 {
+    background: #f2f2f2;
+}
+
+.black-9 {
+    background: #e6e6e6;
+}
+
+.black-8 {
+    background: #d9d9d9;
+}
+
+
+
+/* Cart Badge */
+
+.cart-badge, .cart-badge:hover {
+
+    border-radius: 50%;
+    padding: 2px;
+    font-size: 12px;
+    font-style: italic;
+    background: rgb(76, 124, 76);
+
+}
+
+
+/* Footer */
+
+
+
+
+/* 
+.jumbotron h2 {
+    margin-top: -20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .jumbotron h2 {
+        margin-top: 10px;
+    }
+} */
+
+
+/* Jumbotron Animation */
+
+/* .jumbotron {
+    width: 30wh;
+    height: 30vh;
+    color: #fff;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 15s ease infinite;
+    -moz-animation: Gradient 15s ease infinite;
+    animation: Gradient 15s ease infinite;
+}
+
+
+@-webkit-keyframes Gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+ 
+@-moz-keyframes Gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+ 
+@keyframes Gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+} */
